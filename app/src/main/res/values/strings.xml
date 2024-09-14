@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">EveryNote</string>
+    <string name="register_here"><u>Register here</u></string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="let_s_get_started">Let\'s get started</string>
+    <string name="welcome">Welcome</string>
+    <string name="sign_in">Sign in</string>
+    <string name="todo">TODO</string>
+    <string name="register">Register</string>
+    <string name="click_here_to_back_to_log_in_page">Click Here to back to log-in Page</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="title">Title</string>
+    <string name="write_a_note">Write a note</string>
+    <string name="save">Save</string>
+    <string name="enter_body_here">Enter Body here</string>
+    <string name="enter_title_here">Enter Title here</string>
+    <string name="delete">Delete</string>
+    <string name="start_typing">Start typing</string>
+    <string name="title2">Title</string>
+</resources>
